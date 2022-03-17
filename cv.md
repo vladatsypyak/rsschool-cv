@@ -6,7 +6,7 @@
 ## Junior Front-end developer
 ## Education:
 ### KNLU
-## Skills:
+## Soft skills:
 * problem solving
 * collaboration
 ## hard skills:
